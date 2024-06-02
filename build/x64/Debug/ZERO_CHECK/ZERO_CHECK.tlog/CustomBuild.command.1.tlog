@@ -1,0 +1,10 @@
+^C:\USERS\BOSSS\SOURCE\REPOS\SP_136M_AUTOMOTIVE\BUILD\CMAKEFILES\CAE306B9157900377C956DA04E10B32B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/bosss/source/repos/SP_136M_Automotive -BC:/Users/bosss/source/repos/SP_136M_Automotive/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/bosss/source/repos/SP_136M_Automotive/build/SP_136M_Automotive.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

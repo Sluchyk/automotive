@@ -1,0 +1,10 @@
+^C:\USERS\BOSSS\SOURCE\REPOS\SP_136M_AUTOMOTIVE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/bosss/source/repos/SP_136M_Automotive -BC:/Users/bosss/source/repos/SP_136M_Automotive/build --check-stamp-file C:/Users/bosss/source/repos/SP_136M_Automotive/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

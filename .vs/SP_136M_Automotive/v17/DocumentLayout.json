@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bosss\\source\\repos\\SP_136M_Automotive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273F4192-6442-46CC-B425-9D200EA5F2F3}|SP_136M_Automotive\\SP_136M_Automotive.vcxproj|C:\\Users\\bosss\\source\\repos\\SP_136M_Automotive\\SP_136M_Automotive\\SP_136M_Automotive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{273F4192-6442-46CC-B425-9D200EA5F2F3}|SP_136M_Automotive\\SP_136M_Automotive.vcxproj|solutionrelative:SP_136M_Automotive\\SP_136M_Automotive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SP_136M_Automotive.cpp",
+              "DocumentMoniker": "C:\\Users\\bosss\\source\\repos\\SP_136M_Automotive\\SP_136M_Automotive\\SP_136M_Automotive.cpp",
+              "RelativeDocumentMoniker": "SP_136M_Automotive\\SP_136M_Automotive.cpp",
+              "ToolTip": "C:\\Users\\bosss\\source\\repos\\SP_136M_Automotive\\SP_136M_Automotive\\SP_136M_Automotive.cpp",
+              "RelativeToolTip": "SP_136M_Automotive\\SP_136M_Automotive.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T18:48:19.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
