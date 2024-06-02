@@ -13,8 +13,8 @@
 1. **Клонуйте репозиторій**
 
    ```sh
-   git clone https://github.com/yourusername/CopyHiddenFiles.git
-   cd CopyHiddenFiles
+   git clone https://github.com/Sluchyk/automotive.git
+   cd automotive
 Створіть та зіберіть проект за допомогою CMake
 
 sh
@@ -29,7 +29,7 @@ cmake --build .
 
 sh
 Copy code
-./CopyHiddenFiles
+./automotive
 Пояснення
 Програма перевіряє всі файли у вихідному каталозі та його підкаталогах. Якщо файл має ім'я, яке починається з крапки (.), він копіюється до цільового каталогу з іменем вихідного каталогу та префіксом підкресленого імені файлу.
 
